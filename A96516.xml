@@ -1,0 +1,477 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sope-patentees of Londons petition opened and explained. Or, The unmasking of these cruel sope-patentees deceitful petition, presented by them to the Honorable House of Commons. Wherein you have a discovery made (in part and but in part) of the great sufferings of this common-wealth: as also of the special sufferings of some free-born subjects in their liberties and estates, sustained by these cruel sope-monopolers. / By Richard Wilkins.</title>
+            <author>Wilkins, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96516</idno>
+            <idno type="STC">Wing W2216</idno>
+            <idno type="STC">Thomason E349_20</idno>
+            <idno type="STC">ESTC R201036</idno>
+            <idno type="EEBO-CITATION">99861617</idno>
+            <idno type="PROQUEST">99861617</idno>
+            <idno type="VID">113756</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96516)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113756)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E349[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sope-patentees of Londons petition opened and explained. Or, The unmasking of these cruel sope-patentees deceitful petition, presented by them to the Honorable House of Commons. Wherein you have a discovery made (in part and but in part) of the great sufferings of this common-wealth: as also of the special sufferings of some free-born subjects in their liberties and estates, sustained by these cruel sope-monopolers. / By Richard Wilkins.</title>
+                  <author>Wilkins, Richard.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.F. for Iohn Rothwel, and are to be sold at the Fountain and Sun in Pauls Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 10".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soap trade --  England --  Early works to 1800.</term>
+               <term>Monopolies --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2012-09</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113756:1" rendition="simple:additions"/>
+            <p>The Sope-Patentees Of <hi>Londons</hi> PETITION Opened and Explained.</p>
+            <p>OR, The Unmasking of theſe cruel Sope-Patentees deceitful Petition, preſented by them to the Honorable Houſe of <hi>Commons.</hi>
+            </p>
+            <p>Wherein you have a Diſcovery made (in part and but in part) of the great Sufferings of this Common-wealth: As alſo of the ſpecial Suf<g ref="char:EOLhyphen"/>ferings of ſome Free-born Subjects in their Li<g ref="char:EOLhyphen"/>berties and Eſtates, ſuſtained by theſe cruel</p>
+            <p>SOPE-MONOPOLERS. By <hi>Richard Wilkins.</hi>
+            </p>
+            <p>Habbac. 2. 12. <hi>Woe unto him that buildeth a Town with Blood, and eſta<g ref="char:EOLhyphen"/>bliſheth a City by Iniquity.</hi>
+            </p>
+            <p>Ier. 17. 11. <hi>As the Patridge gathereth the yong which he hath not brought forth, ſo he that getteth Riches and not by right, ſhall loſe them in the midſt of his dayes, and at his end ſhall be a fool.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>I. F.</hi> for <hi>Iohn Rothwel,</hi> and are to be ſold at the Fountain and Sun in <hi>Pauls</hi> Church-yard, 1646.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:113756:2"/>
+            <pb facs="tcp:113756:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>Here are three things that theſe Pa<g ref="char:EOLhyphen"/>tentees are eminently guilty of. Firſt, the Monopolizing of the myſtery of Sope-boyling of the whole Kingdom into eight or ten mens hands, to the great oppreſsion of the Com<g ref="char:EOLhyphen"/>mon-wealth, and the ruine of many Families in their Eſtates and Liberties. Secondly, they have been, and ſtill are, great deceivers of the Subjects, not only by adulterated and baſe Sope, but alſo by thoſe ways which I have declared in my Anſwering their Propoſitions. In theſe two particulars you have theſe three things ob<g ref="char:EOLhyphen"/>ſervable, Firſt, that to Monopolize, they did take their Patent, and this offence they tranſlate upon the firſt Sope-Patentees. Secondly, that by Monopolizing, they have been great and barbarous oppreſſors; this offence they charge upon the Kings Majeſty, and the Lords of the Councel. Thirdly, that by ſeveral ways they have been great deceivers; and this offence they alſo unjuſtly tranſlate upon the ruined and op<g ref="char:EOLhyphen"/>preſſed Sope-boylers. The third and laſt thing which they are eminently guilty of, is this, That by lyes they deceived the Kings Majeſty, and Lords of the Councel, &amp; now by lyes they have endeavored to deceive the Honorable and High
+<pb facs="tcp:113756:3"/> Court of Parliament, not only by this vain and deceiving Petition, but alſo by their Propo<g ref="char:EOLhyphen"/>ſitions for the Exciſe of Sope: All which wic<g ref="char:EOLhyphen"/>kedneſſe, together with the ſeveral aggravations of theſe Innovators of our Laws and Liberties offences, you have demonſtrated in the enſuing Diſcourſe, I could give you many Arguments deductable, from the cryes of the oppreſſed Sope-boylers; from the cry of this oppreſſed and deplorable Common-wealth, which calls to our Worthyes for Juſtice againſt theſe cruel, wilful and covetous oppreſſors and fomentors of our preſent Troubles; but I will only men<g ref="char:EOLhyphen"/>tion theſe two; Firſt, that I might keep all men undeceived, for general it concerns all, but eſpe<g ref="char:EOLhyphen"/>cially our moſt Honored and Worthy Senators, in that ſenſe which the Scripture ſpeaks <hi>(Prov. 24. 21, 22. Hoſ.</hi> 7. 12.) concerning theſe changers of our Laws: or rather that I may take off that ſenſe which godly &amp; wiſe men have received of them by their glorious words of deceit, by which they have put a falſe gloſs upo<g ref="char:cmbAbbrStroke">̄</g> their oppreſsings; for I finde that with ſome that fits at the Stern in the City, nay may I not ſay, it is to be feared with ſome in the Parliame<g ref="char:cmbAbbrStroke">̄</g>t, that the ſenſe of theſe Patentees ſufferings by the cruel oppreſsions of the firſt Sope-Projectors (for which they have al<g ref="char:EOLhyphen"/>ready
+<pb facs="tcp:113756:3"/> ſatisfied themſelves) hath ſwallowed up the ſenſe of their cruel oppreſsing of others, that the falſe ſenſe of their being neceſsitated to take a Patent, hath ſwallowed up the ſenſe of their delinquency in acting againſt Law and Liberty of Subject in their taking of their Patent. Secondly, that the executing of judgement upon theſe Projectors, is the only way as to Judge the poor oppreſſed Sope-boylers with Righteouſneſs; ſo it is the only way, and there can (under favor) be no other by which theſe Patentees can be forced to make reſtitution to the Common<g ref="char:EOLhyphen"/>wealth, which they have greatly oppreſſed: For the raiſing of a Sum of money from theſe Monopolers anſwerable to their demerits (which they are able to ſatisfie) for the benefit of the State, is a Negative reſtitution to the Common-wealth, that which in<g ref="char:EOLhyphen"/>forces and backs this Argument is this, becauſe that it is conſiſtent to the Intentions, the unwearied and unparallel'd Actings and Declarations of the honorable Houſes of Parliament, which I wil make out from three Scriptures: Sure I am, that the Laws and Liberties of this Common-wealth hath been wounded by theſe Innovators, the ſad conſequent is the preſent bleeding condition of this our Nation, by the unnatural Civil War that we have had, and ſtil is upon us, execution of judgement is the means of healing of us, <hi>Ier.</hi> 51. 1. Secondly, ſure I am, that
+<pb facs="tcp:113756:4"/> your intendments, Right Honorable, is to looſe the bands of wickednes, to take off the heavy burthens from the oppreſſed, to execute judgement upon theſe fomentors of our preſent troubles, as wel as others, and God hath accepted and imbraced your intend<g ref="char:EOLhyphen"/>ments, while you are in the way, as the Father the prodigal Son, witneſſe the glorious and happy ſuc<g ref="char:EOLhyphen"/>ceſſe that God hath given to your Armies: O let not the want of execution of Juſtice bring our, I hope ungrounded, fears upon us, which is the re<g ref="char:EOLhyphen"/>newing of our troubles by the unfaithfulneſſe of Brethren, &amp; ſo turn the ſmiles of God into frowns: For your encouragement unto a ſpeedy hearing of the oppreſſed cries, reade your portion (Right Ho<g ref="char:EOLhyphen"/>norable) given you of God, <hi>Iſa.</hi> 58. 8. The third Scri<g ref="char:EOLhyphen"/>pture is the words of <hi>Solomon,</hi> recorded <hi>Prov. 20. 8. A King that ſitteth in the Throne of judgment, chaſeth away all evil with his eyes;</hi> the Marginal note thus renders it, <hi>Where righteous judgment is executed, there ſin ceaſeth, and vice dares not appear.</hi> O remember how their im<g ref="char:EOLhyphen"/>pudency in propounding to you, Right Honora<g ref="char:EOLhyphen"/>ble (that in their Propoſitions, which is no leſs then a Monopoly) that which cals upon you for juſtice, an unparalleld preſumption, having ingagement upon me hereunto by Covenant and by truſt; let theſe words of ſobernes and truth finde acceptance from him that is a well-wiſher to the Kingdoms Peace and happineſſe.</p>
+            <closer>
+               <signed>R. Wilkins.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <floatingText xml:lang="eng" type="petition">
+               <body>
+                  <pb n="7" facs="tcp:113756:4"/>
+                  <head>To the Right Honorable, The Knights, Citizens and Burgeſſes OF The Houſe of COMMONS Aſſembled in PARLIAMENT. The humble Petition of Lieut: Colonel <hi>John Hardwick,</hi> Captain <hi>John Hayes, Edmund Whitwel, Laurence Whitwel, Simon Weedon,</hi> Sope-boylers of <hi>London,</hi>
+                  </head>
+                  <opener>Moſt humbly ſheweth:</opener>
+                  <p>1. <seg rend="decorInit">T</seg>Hat whereas your Petitioners, His Majeſties Native Subjects, have been brought up and ſerved in the Art aforeſaid, according to the Statute, did uſe the ſame till 7. <hi>Caroli Rex,</hi> wherein divers Projectors (Enemies to the Common-wealth) under the Name of Gen<g ref="char:EOLhyphen"/>tleman Sope-boylers of <hi>Weſtminſter</hi> (upon falſe pretences) obtained a Patent under the great Seal, for the ma<g ref="char:EOLhyphen"/>king of white Sope, to the great abuſe of His Majeſty, and extraor<g ref="char:EOLhyphen"/>dinary damage to the Kingdom.</p>
+                  <p>1. The Petitioners (not being able with good Conſcience to comply with them) uſed their own Trade aforeſaid (according to the liberty of the Subject) in a juſt and legal maner, until for the ſame they were greatly oppreſſed (by the ſaid Patentees) by Suits in Star-Chamber, cauſed them to be Fined in great Sums of money, their perſons impriſoned for divers years (ſome dying in Priſon) their houſes broken open, their goods Seized (to the Beds they lay on) to
+<pb n="8" facs="tcp:113756:5"/> 
+                     <hi>their very great impoveriſhing, and unexpreſſible damage being to<g ref="char:EOLhyphen"/>tally diſabled from the uſe of their Trade, to the <gap reason="illegible" resp="#UOM" extent="2 words">
+                           <desc>〈◊◊〉</desc>
+                        </gap> Sope-makers to forſake the Kingdom and live Exile in Fo<g ref="char:EOLhyphen"/>raign parts.</hi>
+                  </p>
+                  <p>3. <hi>
+                        <g ref="char:V">Ʋ</g>nder which heavy burthen and bondage the Petitioners groaned divers years, untill they and others of their Art were forced to buy their Trade and Liberty (which they were born to) by giving the King a greater yearly Revenue then the Projectors did,</hi>
+                  </p>
+                  <p>4. <hi>Nevertheleſſe many perſons (not having been brought up nor ſerved as Apprentiſes in the Petitioners Art) did uſe the making of Sope privately and ſecretly, putting the ſame to ſale, even to the ruine of the Petitioners, and great deceiving of the Kingdom by baſe Sope.</hi>
+                  </p>
+                  <p>5. <hi>For remedy whereof, and to ſecure the Revenue, the Petitioners and the reſt of the Company were injoyned by His Majeſty, and the Lords of the Privy Councel, and bound in 40000. l. Bond, to ſup<g ref="char:EOLhyphen"/>preſſe all ſuch perſons from the making Sope, which indeed were proſe<g ref="char:EOLhyphen"/>cuted (only) but according to the tenour of the King and Lords Warrants.</hi>
+                  </p>
+                  <p>6. <hi>For ſo doing, many Suits in Law have been proſecuted againſt the Petitioners upon the Statute of Monopolize, to the expence of 1000. l. ſome of them recovering 1000. l. 500. l. 300. l. when the Pe<g ref="char:EOLhyphen"/>titioners proved they were not really dampnified <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. l. and many more Actions are brought, and threatned to be brought againſt the Peti<g ref="char:EOLhyphen"/>tioners onely (being but few, to the many which were of their com<g ref="char:EOLhyphen"/>pany) which will tend to the great diſinabling of the Petitioners, in being ſerviceable to the King and Parliament as formerly, and as they ſtill deſire, in which cauſe they have greatly ingaged their purſes and perſons, but now are like to be utterly undone if not relieved.</hi>
+                  </p>
+                  <p>
+                     <hi>In tender conſideration of the premiſes, and in regard that your Pe<g ref="char:EOLhyphen"/>titioners are moſt willing and ready to make ſatisfaction to their ut<g ref="char:EOLhyphen"/>moſt abilities, to all that can make it truly appear they are damnified by your Petitioners, (they having paid divers to the value of 6000 l. for ſatisfaction of which their wrongs the Petitioners never received one peny.</hi>
+                  </p>
+                  <p>
+                     <hi>And in regard many of the Petitioners company (who received a far greater benefit by His Majeſties ſaid grant then the Petitioners did) do refuſe to make as is herein deſired, and leave the inſupportable burthen totally upon the Petitioners, who never acted any thing in the</hi>
+                     <pb n="9" facs="tcp:113756:5"/> 
+                     <hi>premiſes as private perſons, but only as Members of their Company for the general ſervice and good of the ſame: May it therefore pleaſe this Honorable Aſſembly to take the ſad condition of the Petitioners into your Pious conſideration, and to appoint a Commit<g ref="char:EOLhyphen"/>tee to call all ſuch perſons as aforeſaid before them, and to examine their particular damages, and to compel all that had benefit by His Majeſties ſaid Grant, to joyn with the Petitioners in giving ſuch ſatisfaction (without Suit in Law) as to the ſame Committee ſhall ſeem moſt meet. The parties who alleage themſelves grieved (by the Petitioners and their Company) being greatly deſirous to be relieved by the ſame means, as by their humble Petition, hereunto annexed, appeareth, whereby the Petitioners may be preſerved from utter ruine.</hi>
+                  </p>
+                  <closer>
+                     <signed>And your Petitioners, &amp;c.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Having ſet down and preſented to your view the Petition of the laſt Sope-Patentees, the moſt ancient and moſt cruel Mono<g ref="char:EOLhyphen"/>polers of the Art of Sope-boyling, I ſhall firſt give you the parts of it, and then explain it; wherein I ſhall ſhew, not only the greatneſſe of their oppreſſing Patent, but alſo their wilful being oppreſſors and invaders of the Subjects Liberties (which being done, will not only render them to be the greateſt oppreſſors, and moſt ancient Monopolers, but alſo men covering the ſins with lyes) which at preſent I ſhall do it briefly (yet ſatisfactorily) becauſe their more fuller declaring of their taking a Patent, was not to gain their Trade, but the inriching of themſelves by op<g ref="char:EOLhyphen"/>preſſing their fellow-Subjects in their Liberties and Eſtates) is more proper either in anſwering their Book, Intituled, <hi>A true Relation concerning the Sope buſineſſe,</hi> or in proof of the Charge which I ſhall exhibite againſt them (in the High and Honorable Court of Parliament) for their Delinquency, not only in their taking of their oppreſſing Patent, but alſo in their cruel, barba<g ref="char:EOLhyphen"/>rous, and inhumane proſecution of it; in both which I have made ſome progreſſe in, and preparation for,</p>
+            <div type="part">
+               <head>1. The general parts of their Petition are three:</head>
+               <p n="1">1. <hi>The body or ſubject matter of their Petition, which conſiſts of ſix particular Branches.</hi>
+               </p>
+               <p n="2">2. <hi>The Arguments on which the requeſt of their Petition is grounded.</hi>
+               </p>
+               <p n="3">3. <hi>The Requeſts of their Petition it ſelf.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:113756:6"/>
+               <head>2. The opening or explanation of this their Petition.</head>
+               <p>In the general part of this their Petition, which is the body or ſubject matter of the Petition, you ſhall finde theſe four things laid down.</p>
+               <div type="section">
+                  <p>Firſt, That theſe Patentees were, by the Patent and practiſe of the white Sope-Patentees, prohibited their Trade for divers years together: Together with the ſad conſequences that did fall upon theſe Petitioners, by reaſon of the Patent, which they demon<g ref="char:EOLhyphen"/>ſtrate by theſe five particulars:</p>
+                  <p n="1">1. <hi>By vexatious Suits in the Star-Chamber.</hi>
+                  </p>
+                  <p n="2">2. <hi>By the great Fines impoſed upon them in that illegal Court.</hi>
+                  </p>
+                  <p n="3">3. <hi>By the long Impriſoning of their perſons.</hi>
+                  </p>
+                  <p n="4">4. <hi>By breaking open their houſes.</hi>
+                  </p>
+                  <p n="5">5. <hi>By Seizing and carrying away their goods.</hi>
+                  </p>
+                  <p>This firſt thing, together with theſe five particulars, declaring theſe Petitioners ſufferings by the Patent and practiſe of the other Patentees, are expreſſed in the two firſt Branches of this Petition.</p>
+                  <div type="answer">
+                     <head>The Anſwer is,</head>
+                     <p>That thought it is an undeniable truth which they have ſet forth, yet they are not to be thought (or doth render them) the more excuſeable; nor is their ſin in taking their oppreſſing Patent ex<g ref="char:EOLhyphen"/>tenuated (thereby) but aggravated; and that for this reaſon, Be<g ref="char:EOLhyphen"/>cauſe they acted the ſin of others againſt light, namely, the ſin of Oppreſſion, not of an ordinary, but of a ſcarlet dye; not only acting unrighteous Decrees, but procurers of them, thus making their Prince an oppreſſor to his people by their falſe pretences; in not only a Law deſtroying, but a Land ruinating ſin, which they themſelves have demonſtrated unto us by four things in theſe firſt &amp; ſecond Branches (ſo that I may ſay unto them as Chriſt ſaid to the unprofitable ſervant, <hi>They may be judged out of their own mouth)</hi> which being well confidered, will render the Petitioners Enemies (as well as the other Patentees) not only to the Kings Majeſty, but alſo to the Law, Liberties and Eſtates of the Subject in their taking of a Patent. I will only give you one Scripture in<g ref="char:EOLhyphen"/>ſtance, which doth aptly prove the Argument, and render theſe Patentees greater offenders and ſinners then the other (and then I will name the four particulars by them expreſſed) <hi>Adam</hi> ſinned as well as the woman in eating the forbidden fruit; and yet it was true which he ſaid to God, <hi>The Woman which thou gaveſt to be</hi>
+                        <pb n="11" facs="tcp:113756:6"/> 
+                        <hi>with me, ſhe gave me of the Tree, and I did eat:</hi> Nay, his ſin was greater then the womans (ſo is the ſin of theſe Patentees greater then the others) if ye conſider theſe two things: 1. The tempter was ſtronger that deceived her. 2. He was ſtronger to reſiſt the temptation. To apply. The firſt Patentees were Papiſts, and ſo were principled to ruinate the Kingdom, and therefore muſt needs ſee a goodneſſe in a Patent, being agreeable to their principles: So it is ſaid of the woman (but not of the man) that ſhe ſaw the Tree was good for food: Theſe Patentees are Proteſtants, at leaſt at large (but, is to be feared, no more) I judge them not) and therefore their principles ſhould have led them, to maintain, not to deſtroy their King and Kingdom (as now it is) which they have a great ſhare in.</p>
+                     <p>And though it be a digreſſion, yet becauſe it is both reaſonable and conſiderable, I will commend four things (in this Chapter conſiderable) in reference to the Lords judicial proceeding upon man ſinning) as to the ſerious conſideration of the Right Honor<g ref="char:EOLhyphen"/>able and High Court of Parliament, by way of preſident for their imitation, ſo alſo to the ſerious conſideration of theſe Patentees, by way of expectation; namely, <hi>That though they endeavor to co<g ref="char:EOLhyphen"/>ver their ſin with lyes, they ſhall not proſper: That though they have got much riches by that which is not right, yet they ſhall leave them in the midſt of their dayes, and their end ſhall be fools,</hi> as the Scripture ſpeaks, <hi>Jer.</hi> 17. 11. Even then, when from our worthy Senators Juſtice ſhall run down like water, and Judgement like a mighty flood; when <hi>they ſhall Judge with righteouſneſſe the poor, and re<g ref="char:EOLhyphen"/>prove with equity</hi> (theſe Projectors) <hi>for the meek of the Earth Iſaiah</hi> 11. 4.</p>
+                     <div type="observations">
+                        <head>The four things obſervable are,</head>
+                        <p n="1">1. <hi>That God did execute Judgement upon ſinners, as he had ſaid, Gen.</hi> 2. 17. compared with Chap. 3. 14, 15, 16. <hi>Hoſ.</hi> 7. 12.</p>
+                        <p n="2">2. <hi>That God began Judgement where ſin began,</hi> Gen. 3. 14.</p>
+                        <p n="3">3. <hi>That God did not only begin Judgement where ſin began, but alſo proceeded on as ſin proceeded,</hi> Gen. 3. 14, 15, 16, 17.</p>
+                        <p n="4">4. <hi>The ſuitableneſſe of Gods Judgement to the Nature of ſin, this is called, A reproving with equity,</hi> Iſa. 11. 4. Achan <hi>troubled Iſrael, and the Lord troubled him,</hi> Joſh. 7 17.</p>
+                        <p>The application which I ſhall obſerve to you, moſt Honored and worthy Senators, that youmay bear his Image in this.</p>
+                        <p n="1">
+                           <pb n="12" facs="tcp:113756:7"/>1. God executes Iudgement, as he hath ſaid, ſo muſt yee againſt theſe Monopolors, in reſpect of thoſe that have been ruinated by them. <hi>Statute 21. Jacobi,</hi> againſt Monopolers.</p>
+                        <p n="2">2. God began Iudgement where ſin began, ſo have yee, wit<g ref="char:EOLhyphen"/>neſſe your Act of 200000. l. againſt the firſt Sope-Patentees.</p>
+                        <p n="3">3. God proceeds on in Iudgement as ſin proceeded, ſo muſt ye againſt theſe Monopolers (as well as others) execute Iudge<g ref="char:EOLhyphen"/>ment.</p>
+                        <p n="4">4. Gods Iudgements are ſuitable and equal to the ſins of men, ſo muſt ye reprove with equity theſe Monopolers; and that you may reprove them with equity, though it is impoſſible to expreſſe all the damage which they have done to King and Kingdom, by the obtaining and cruel proſecuting of their illegal Patent; yet this they are guilty of oppreſſion by their Patetnt, to the Sum of Four hundred thouſand pounds. I come now to expreſſe the four particulars which theſe patentees have expreſſed, which is appliable to themſelves, and renders them greater offenders then the other Sope-Patentees; which are theſe four:</p>
+                        <list>
+                           <label>That it was a Patent</label>
+                           <item>
+                              <list>
+                                 <item>
+                                    <hi>1. Againſt the Law, Liberty and Eſtates of the Subject.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>2. Abuſive to the Kings Majeſty.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>3. Of extraordinary damage to the Kingdom.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>4. Which their Conſciences could not ſuffer to comply with.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                        <p>I will conclude ſpeaking to this firſt general, with this (they have expreſſed in the laſt of theſe four particulars) namely, the tenderneſſe of theſe Patentees Conſciences, not daring to comply with the other Patentees; and the reaſon they give is to be taken from, or made up by the other three particu<g ref="char:EOLhyphen"/>lars, and it is this, <hi>Becauſe that it was a Patent againſt Law and Liberty of the Subject, againſt King and Kingdom;</hi> and yet con<g ref="char:EOLhyphen"/>ſider how ſoon were theſe tender Conſciences ſeared and made hard, for that immediatly they did take up another Patent, more oppreſſing (in its Covenants) to the Subjects then the other, and were more barbarous, cruel, and oppreſſive in their proſecution, then the other Patentees; by which it doth appear, That their re<g ref="char:EOLhyphen"/>fuſing to joyn with the other Patentees, did not ariſe either from tenderneſſe of Conſcience, or an unwillingneſſe to get riches by oppreſſion (as they falſly pretend, and would make men believe)
+<pb n="13" facs="tcp:113756:7"/> but to gain a Patent to themſelves to Monopolize the Sope-boyl<g ref="char:EOLhyphen"/>ing Myſtery (from all other Sope-boylers) into their own hands, to get riches in abundance (as they did) by oppreſſion. For you muſt know, that theſe oppreſſing cruel Patentees, are not like thoſe ſinners which <hi>Solomons</hi> ſpeaks of, that ſaid, <hi>Caſt in thy lot amongst us, let us have all one purſe, Prov.</hi> 1. 14. Theſe men will have no Competiters in their gains, they well knowing by expe<g ref="char:EOLhyphen"/>rience how to ſuck (out of a Monopelizing Patent) a greater ſweetneſſe of gain then the other Sope-Projectors, having for twenty years together (before ever any Patent was) gained much riches by Monopolizing the Sope-boyling Myſtery ſolely into eight or ten mens hands, to the ruine of many a Family. I come now to ſpeak to their ſecond general, which is this:</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="section">
+                  <p>Secondly, That theſe Petitioners did take their Patent only to regain their Trade from the other Patentees, and were forced thereunto: which they demonſtrate by theſe two Arguments:</p>
+                  <p n="1">1. <hi>That they did contend for their liberty of Trade, by ſuffering many years.</hi>
+                  </p>
+                  <p n="2">2. <hi>That confidering they could not gain liberty of Trade by ſuf<g ref="char:EOLhyphen"/>fering, they were forced to purchaſe it, by giving the King a greater yearly benefit then the other Sope-Projectors.</hi>
+                  </p>
+                  <p>This ſecond general, as alſo theſe two Arguments, you have contained in the third Branch of the ſubject matter of this their Petition.</p>
+                  <div type="answer">
+                     <head>The Anſwer which I ſhall give to it is this:</head>
+                     <p>The explaining and ſhewing wherein the neceſſity of theſe Pa<g ref="char:EOLhyphen"/>tentees (taking of their Patent did lie, I will truly demonſtrate to you by this enſuing Propoſition.</p>
+                  </div>
+                  <div type="proposition">
+                     <head>The Propoſition.</head>
+                     <p>That the Petitioners, to Monopolize the Sope-boyling Art into their own hands (from all other Sope-boylers) and to enrich themſelves by ſuppreſſing and tyranizing over all other Sope-boylers, and by being oppreſſors of the Common-wealth in this ſenſe and in no other, there was a neceſſity of their taking of a Patent: But there was not, nor could there be in that ſenſe which they pretend (and would make men believe) that is, To gain liberty of Trade.</p>
+                     <p>There are theſe two parts in this Propoſition.</p>
+                     <p>
+                        <hi>1. That liberty of Trade could not be the Deſign of theſe Pro<g ref="char:EOLhyphen"/>jectors in their taking of a Patent.</hi>
+                     </p>
+                     <pb n="14" facs="tcp:113756:8"/>
+                     <p>2. <hi>That their Deſign in taking of their Patent, was to Monopo<g ref="char:EOLhyphen"/>lize the Art of Sope-boyling, and to oppreſſe.</hi>
+                     </p>
+                     <p>Many Arguments may be given to prove both the parts of the Propoſition; but I will only mention theſe four Reaſons at pre<g ref="char:EOLhyphen"/>ſent; two to prove the firſt, and the other two to prove the ſecond part.</p>
+                     <p>The two Arguments to prove the firſt part, namely, <hi>That liber<g ref="char:EOLhyphen"/>ty of Trade was not the Deſign of theſe Patentees taking of their Patent, which is the Negative part of the Propoſition,</hi> are,</p>
+                     <p n="1">1. Becauſe, that though there may be a neceſſity of ſuffering for, yet there cannot be a neceſſity of ſinning againſt God, Li<g ref="char:EOLhyphen"/>berties and Laws; and the reaſon is, becauſe God, Liberties and Laws is to be contended for; yes, it is the duty of Saints, and the duty of Subjects, to contend for their Birth-right, witneſſe both the preſent contention in the Land, and the preſent ruines that is upon us, the ſad conſequences of the actings of theſe Patentees, as well as others, have brought upon us, as I have already ſhewn.</p>
+                     <p n="2">2. Becauſe that theſe Petitioners and Patentees, at that time when they did take their Patent, might freely have uſed the Art of Sope-boyling, and enjoyed liberty of Trade without a Patent; and the Reaſon why they might have had liberty of Trade with<g ref="char:EOLhyphen"/>out a Patent, is, becauſe the other Patentees were not able any longer to hold their Patent, being diſabled to pay the King His yearly Revenue, by theſe two things:</p>
+                     <p n="1">1. <hi>The general diſtaſt that the people took againſt that project.</hi>
+                     </p>
+                     <p n="2">2. <hi>The conſtant ſupply of Sope (Imported from Forraign parts and made at home) for the Subjects uſe.</hi>
+                     </p>
+                     <p>The conſideration of this Argument, being judiciouſly ob<g ref="char:EOLhyphen"/>ſerved, will render theſe Patentees, not only Enemies to the Com<g ref="char:EOLhyphen"/>mon-wealth, but alſo wilful introducers of our troubles, and wic<g ref="char:EOLhyphen"/>ked oppreſſors, becauſe covetous.</p>
+                     <p>The two Arguments to prove the ſecond part of the Propoſi<g ref="char:EOLhyphen"/>tion, namely, <hi>That theſe Patentees Deſign in taking of their Patent, was to Monopolize and oppreſſe, which is the Affir<g ref="char:EOLhyphen"/>mative part,</hi> are,</p>
+                     <p n="1">1. Becauſe that theſe Patentees, by vertue and in proſecution of their ſaid Patent, they did not only prohibite all others from boyl<g ref="char:EOLhyphen"/>ing Sope, and all manner of Sope, but even ſuch as had ſerved themſelves Apprentiſhips, yea, and even ſuch as were as ancient
+<pb n="15" facs="tcp:113756:8"/> Sope-boylers as themſelves; but alſo did carry away their goods, and deſtroy their veſſels.</p>
+                     <p n="2">2. If their Deſign in taking and proſecuting of their Patent were not to Monopolize, then why was the Merchants through<g ref="char:EOLhyphen"/>out the Kingdom (to their great damage and diſcouragment of Trade) by the cruel practiſe of theſe Projectors prohibited, not only the importing of any Pot-aſhes to any Port of <hi>England,</hi> but at <hi>London,</hi> but alſo the ſelling of them (ſo imported) to any other but themſelves.</p>
+                     <p>That they did gain ſuch a power, not only to the great damage of the Merchants, and prejudice of all other Sope-makers, but alſo to the great damage of all other Tradeſmen dealing with, and uſing of Pot-aſhes; yea, to the ruine of ſome Families. I will give you a Copy of the Order of the Star Chamber, which the Merchants were ſerved with, by them moved for, obtained and proſecuted.</p>
+                     <floatingText xml:lang="eng" type="order">
+                        <body>
+                           <opener>
+                              <dateline>
+                                 <hi>At Star Chamber</hi> 
+                                 <date>
+                                    <hi>the 18. of</hi> October. 1637.</date>
+                              </dateline>
+                           </opener>
+                           <list>
+                              <head>Preſent,</head>
+                              <item>Lord Archbiſhop of Cant.</item>
+                              <item>Lord Keeper.</item>
+                              <item>Lord Treaſurer.</item>
+                              <item>Lord Privy Seal.</item>
+                              <item>Earl Marſhal.</item>
+                              <item>Earl of Dorſet.</item>
+                              <item>Lord Cottington.</item>
+                              <item>Mr. Controller.</item>
+                              <item>Mr. Secretary Cook.</item>
+                              <item>Mr. Secretary Wyndebank.</item>
+                           </list>
+                           <p>THis day was read to their Lordſhips an Order of this Board, made the 2. day of <hi>May</hi> laſt, touching Pot-aſhes, and the re<g ref="char:EOLhyphen"/>ſtraint of the common ſale thereof, to the prejudice of the Sope-makers of <hi>London,</hi> on whoſe behalf it was now by their Councel prayed that the ſame Order might be explained and enlarged in theſe particulars following:</p>
+                           <p>Firſt, <hi>That no Merchant, or other perſon or perſons whatſoever, ſhould directly or indirectly, by themſelves, their Agents, Factors or Servants at any time or times hereafter, Sell, Barter, or do away, or deliver any Pot-aſhes whatſoever, to any perſon or perſons what<g ref="char:EOLhyphen"/>ſoever,
+<pb n="16" facs="tcp:113756:9"/> ſave only to the ſaid Company of Sope-makers of</hi> London, <hi>who hath promiſed to furniſh Dyers and Leather-dreſſers with ſuch quantities as they ſhall uſe, at the ſame price for which they are bought, without any increaſe or further charge in that behalf.</hi>
+                           </p>
+                           <p>Secondly, <hi>That no Merchant, or any other perſon whatſoever, ſhall land or bring to Shore any Pot-aſhes, imported from beyond the Seas, ſave only at the Port of</hi> London, <hi>and at no other Port, Ha<g ref="char:EOLhyphen"/>ven, Creek, or place whatſoever.</hi>
+                           </p>
+                           <p>Thirdly, <hi>That no perſon that doth or ſhall make, or have any Pot aſhes, ſhall Sell, Barter, or do away the ſame, to any perſon or perſons whatſoever, ſave only to the Sope-makers of</hi> London, <hi>that are known lawfully to uſe that Trade, and not to any undue makers of Sope, or to any other: Nevertheleſſe, it is not their Lordſhips pleaſure, nor was it now deſired, That any Merchant or other ſhould in any wiſe be reſtrained to Export out of the Kings Dominions into any of the parts beyond the Seas, any Pot-aſhes, Forraign or Engliſh, and there to be vended.</hi>
+                           </p>
+                           <p>
+                              <hi>And their Lordſhips being informed, That the Merchants having ſince the Moneth of</hi> May <hi>laſt ſold 600. Tun of Pot-aſhes to the ſaid Company, to the value of Thirteen thouſand pounds, or there<g ref="char:EOLhyphen"/>abouts.</hi>
+                           </p>
+                           <p>
+                              <hi>Sithence nevertheleſſe, they have brought in and imported about 450. Tun, which if they be diſpoſed to undue makers of Sope, will overthrow the buſineſſe, every Tun of Aſhes ſo uſed, being near 30. <hi rend="roman">l.</hi> loſſe to the King, beſides the Companies loſſe.</hi>
+                           </p>
+                           <p>
+                              <hi>It is thereupon Ordered, That the ſeveral matters before deſired be in all parts obſerved, by the ſaid Merchants and others, and that that they ſo govern themſelves therein, as that no further Com<g ref="char:EOLhyphen"/>plaint be hereafter made againſt them, for or concerning any of the premiſes, And that they cauſe this Order to be publikely read at their next general meeting, to the end, that they may the better obſerve the ſame: Yet notwithſtanding, if the Merchants ſhall finde themſelves agrieved in any of the premiſes, as that they ſhall think themſelves able to give good and ſound Reaſons, why the ſame ſhould not be ob<g ref="char:EOLhyphen"/>ſerved, nor injoyned them as aforeſaid, then their Lordſhips do hereby appoint them to give their attendance on the Board the 3. of Novem. next, together with the ſaid Sope-makers, that after due hearing of both ſides, ſuch final order may be therein made as ſhall be fitting.</hi>
+                           </p>
+                           <closer>
+                              <signed>Ex. Dudley Carlton.</signed>
+                           </closer>
+                        </body>
+                     </floatingText>
+                     <pb n="17" facs="tcp:113756:9"/>
+                     <p>By what hath been ſaid, you may ſee how <hi>Abſolon</hi> like theſe Patentees have dealt with King and Kingdom: <hi>Abſolon</hi> pretend<g ref="char:EOLhyphen"/>ed Juſtice and good to the people, but his Deſign was Rebellion and Treaſon againſt his Father <hi>David,</hi> to aſpire his Throne, 2 <hi>Sam.</hi> 15, 16, and 17. Chapters, you have the Hiſtory: The conſequent was a Civil War, and therein he periſhed, God catcheth this wicked one in his craftineſſe, as <hi>Iob</hi> ſpeaks, Cap. 5. 13. Even ſo theſe Patentees, by their falſe pretences of good to the people, gained of His Majeſty a Patent to Monopolize, and to oppreſſe thereby to enrich themſelves, which was their Deſign; and how far their Rebellion againſt King and Kingdom hath a ſhare in the preſent Miſeries and Civil Wars that is now upon us, as Introducers, I ſhall leave to the judgement and determination of our grave and wiſe Senators: And why theſe changers of our Laws ſhould not tremble to conſider the nearneſſe of their down<g ref="char:EOLhyphen"/>fall, I underſtand not, becauſe the Scripture ſpeaks poſitively of their ruine, <hi>Prov.</hi> 24. 21. compared with the 22. Verſe of that Chapter. And Chapter 22. Verſe 23. And the rather becauſe they ſtill perſiſt and go on in the ſelf ſame ſinful deſign, under the ſelf ſame ſinful pretences; for as they then dealt with the King and Kingdom in gaining of their Patent, ſo now theſe Patentees deal <hi>Abſolon</hi> like with the Parliament and Kingdom, witneſſe their Propoſitions concerning the Excize of Sope, by them preſented to the Honorable Houſe of Commons, which being well conſi<g ref="char:EOLhyphen"/>ſidered, are to me and others (which well know their workings, and have felt their cruelties) no leſſe then a Monopoly, as I have already declared in Anſwering of them in that ſheet of Paper Intituled, <hi>A Looking-glaſſe for Sope-Patentees.</hi> Much more may be ſaid againſt the Propoſitions (and ſhall, when Providence gives me a fit opportunity) but I ſhall not now, becauſe it is a digreſſi<g ref="char:EOLhyphen"/>on; only I will minde you of a Scripture or two that I cannot omit: <hi>Iſa.</hi> 32. 7. The Lord by the Prophet ſhews this, That ly<g ref="char:EOLhyphen"/>ing words are the weapons of wicked men to undo the poor: The words in the Text are, <hi>For the weapon of the Churl are wicked, he deviſeth wicked counſels</hi> (what theſe wicked weapons are, and whereto they tend, you have in the following words) <hi>To undo the poor with lying words, and to ſpeak againſt the poor in judgement.</hi> Eccleſ. 8. 11. <hi>Solomon</hi> tells us what is the reſult and uſe that wic<g ref="char:EOLhyphen"/>ked men make of the delay of Juſtice, in theſe words, <hi>Becauſe</hi>
+                        <pb n="18" facs="tcp:113756:10"/> 
+                        <hi>Sentence againſt an evil work is not executed ſpeedily, therefore the hearts of the children of men is fully ſet in them to do evil:</hi> The reaſon why I could not paſſe by the citing of theſe Scriptures, is, becauſe the actings of theſe Patentees are the Expoſition of them. There is a third Scripture, with which I will end this digreſſion, propounding it by way of Queſtion, becauſe the pertinatiouſneſſe of theſe Patentees occaſion (the High and Honorable Court of Par<g ref="char:EOLhyphen"/>liament) to ſay, as the Lord ſaid of thoſe wicked ones in the time of the Prophet, <hi>Iſa. 50. 21. Theſe things haſt thou done</hi> (what things? namely theſe things, <hi>Thou ſeeſt a Thief, and runneſt with him; with thy tongue thou forgeſt deceit, and ſpeakeſt againſt thy Brother.</hi> V. 18, 19, 20. obſerve the parrallel) <hi>And I kept ſilence, therefore thou thoughteſt I was like thee.</hi> (Is it not high time, Right Honorable, to do, with theſe Projectors, as the Lord ſaid?) <hi>But I will reprove thee, and fet them in order before thee.</hi> I will now conclude ſpeaking to this ſecond general, ſhewing how they labor (by vain words) to cover all their cruelty, ſaying, <hi>They were forced to take their Pa<g ref="char:EOLhyphen"/>tent to gain liberty of Trade,</hi> which I have by four Arguments proved to be a falſe pretence, and their Deſign undoubtedly here<g ref="char:EOLhyphen"/>in, is the endeavoring to divert Juſtice (now Juſtice requires reſti<g ref="char:EOLhyphen"/>tution) but let the Counſel of God take place in the hearts of Parliament men: <hi>Epheſ. 5. 6. Let no man deceive you with vain words.</hi> I come now to ſpeak to the third general head.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <p>
+                     <hi>Thirdly, That many perſons, not having been brought up to the ſaid Art, did boil and put to ſale, to the ruine of the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e Projectors, and the great deceiving of the Kingdom by baſe Sope, and that they did ſuppreſſe: together with the reaſon why, and the maner how.</hi>
+                  </p>
+                  <p>There is in this third general, contained in the fourth and fifth Branches of their Petition, theſe two parts:</p>
+                  <p>Fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt, ſome thing ſuppoſed, which is the Negative part.</p>
+                  <p>Secondly, ſome thing expreſſed which is the Poſitive part.</p>
+                  <div type="suppositions">
+                     <head>1. That which is ſuppoſed conſiſts of theſe three things.</head>
+                     <p n="1">1. <hi>That none was ſuppreſſed but ſuch which were not brought up and ſerved Apprentiſhips to theſe Patentees Art.</hi>
+                     </p>
+                     <p n="2">2. <hi>That all thoſe that theſe Patentees did ſuppreſſe from boyl<g ref="char:EOLhyphen"/>ing, did boyl illegally.</hi>
+                     </p>
+                     <p n="3">3. <hi>That all the cruelty which theſe Patentees acted in breaking open mens houſes, impriſoning their perſons, ſeizing and carrying away their goods, breaking and ſpoyling mens materials, and would<g ref="char:EOLhyphen"/>ing
+<pb n="18" facs="tcp:113756:10"/> mens perſons, is wholly and only chargeable upon the King and the Lords of the Councel.</hi>
+                     </p>
+                  </div>
+                  <div type="expressions">
+                     <head>2. That which is expreſſed are theſe four things.</head>
+                     <p n="1">1. <hi>That many perſons not being brought up in the Art of Sope-boyling, did boyl and put to ſale baſe Sope.</hi>
+                     </p>
+                     <p n="2">2. <hi>That theſe perſons boyling of baſe Sope, was ruinous to theſe Projectors, and a deceiving of the Common-wealth.</hi>
+                     </p>
+                     <p n="3">3. <hi>That theſe Projectors did ſuppreſſe them, and were both en<g ref="char:EOLhyphen"/>gaged by Bond, and commanded by the King and Lords Warrants to ſuppreſſe them.</hi>
+                     </p>
+                     <p n="4">4. <hi>That theſe Projectors ſuppreſſion of them, was only according to the purport and tenour of the ſaid Warrants.</hi>
+                     </p>
+                  </div>
+                  <div type="answers">
+                     <p>The Anſwer which I ſhall give to each particular of theſe two general parts of this third general Head, ſhall be as they are propoſed: and firſt, I will ſpeak to thoſe three things here ex<g ref="char:EOLhyphen"/>preſſed to be ſuppoſed and implyed, briefly,</p>
+                     <p n="1">1. That not only many, but all perſons (which were not Pa<g ref="char:EOLhyphen"/>tentees) that had ſerved Apprentiſhips, and had been brought up in the Myſtery of Sope, were ſuppreſſed (by theſe Patentees) and prohibited to boil Sope, yea, and ſome of them their goods Seized, and materials ſpoiled and deſtroyed, yea all men hindred, and became a prey to them which did boil for the maintenance of themſelves and Families; but if by not being brought up to theſe Patentees Art, they do mean, were not brought up and ſerved Apprentiſhips in their Art of Monopolizing the Myſtery of Sope-boyling into eight or ten mens hands, then the Suppoſition is true, but elſe it is falſly implyed: Now there is this Reaſon to be given, deductable from their own ſhewing in the Order of the Star-Chamber, which I have here recited; why by their Art muſt of neceſſity be underſtood their Art of Monopolizing the Sope-boyling Art, becauſe by their own ſhewing that all men which bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>led Sope, and was not a Member of their Monopolizing Pa<g ref="char:EOLhyphen"/>tent, were undue boylers of Sope.</p>
+                     <p n="2">2. That all men which theſe Patentees did ſuppreſſe from boil<g ref="char:EOLhyphen"/>ing Sope, did as legally boil as themſelves, yea and more legally.</p>
+                     <p n="3">3. Though it be true, that the King and the Lords are not ex<g ref="char:EOLhyphen"/>cuſeable, concerning the ſpecial and univerſe ſufferings of the Common-wealth, by this Monopolizing and oppreſſing Patent; yet it doth not leſſen or extenuate the offence of theſe cruel
+<pb n="20" facs="tcp:113756:11"/> opreſſing Patentees, and that for theſe Reaſons:</p>
+                     <p n="1">1. Becauſe theſe Patentees are not only guilty of acting, but were (by falſe pretences) the procurers of theſe illegal and op<g ref="char:EOLhyphen"/>preſſive Warrants.</p>
+                     <p n="2">2. Becauſe that they wilfully of purpoſe to oppreſſe and Mo<g ref="char:EOLhyphen"/>nopolize, did gain the ſaid Patent and Lords Warrant, though by their own experience did know them to be illegal and oppreſſive.</p>
+                     <p>I come now to ſpeak to the four things expreſſed, which is the ſecond part of this third general Head; and I ſhall give you the Anſwer in theſe two particulars.</p>
+                     <p>The anſwer to thoſe things expreſſed, 1. That thoſe perſons which theſe Patentees did ſuppreſs from boyling Sope, did boil better Sope then the Patentees, and did ſell to the Subjects at cheaper Rates; this I can prove by multitude of Evidences, and Reaſon tells every rational man, that it had been neither policy or profit for them to have boyled baſe Sope: The Arguments to prove this are theſe two:</p>
+                     <p n="1">1. Becauſe that men buying of Sope prohibited by theſe Pa<g ref="char:EOLhyphen"/>tentees, they did endanger not only the ſeizing of the ſaid Sope, but alſo the being much vexed and troubled by the cruel and ille<g ref="char:EOLhyphen"/>gal perſecution of their illegal Court; for what Sope was made by any that were not Patentees, being ſound, was ſeized, whether in the hands of maker or buyer of it.</p>
+                     <p n="2">2. Becauſe that when men may buy Sope freely, that will not ſuffer themſelves to be defrauded and run a danger too.</p>
+                     <p>This is ſufficient for Anſwer to the firſt and ſecond particulars, and doth declare, That as this is that falſe pretence by which they deceive the King, and gained their Patent; ſo it is their vain words to deceive the Parliament, their end undoubtedly is to di<g ref="char:EOLhyphen"/>vert them from doing Juſtice, by rendring the oppreſſing Sope-boylers odious to the Parliament (under the notion of being de<g ref="char:EOLhyphen"/>ceivers of the Common-wealth by baſe Sope) now they are Pe<g ref="char:EOLhyphen"/>titioning the Parliament for Juſtice.</p>
+                     <p n="2">2. That they were neither by Bond bound, nor by the Lords Warrant commanded to ſuppreſſe any from Sope-boyling (which had a right to boil) as they have alledged; for you muſt know, that the Lords warrants are not warrants commanding theſe Patentees to ſeize Sope againſt their will, as they do affirm, but are Warrants of Aſſiſtances, by theſe Patentees ſued for, and by them procured of the Lords (by the ſame ſalfe pretences by which they gained
+<pb n="21" facs="tcp:113756:11"/> their Patent, commanding power to Ayd and Aſſiſt their cruel, barbarous, and blood-ſucking Agents in their execution of the illegal Deputations which theſe Patentees did iſſue forth under the Seal of their illegal Company: For confirmation whereof, and to compleat the Anſwering of this third general Head, I will give you a view of the Lords Warrants by them obtained.</p>
+                     <floatingText xml:lang="eng" type="warrant">
+                        <body>
+                           <p>VVHereas divers great abuſes and deceits have been and are duly committed in the making of Sope, and his Majeſty hath now ſetled the Manufacture thereof under the Government of the Corporation of Sope-makers of the City of <hi>London:</hi> And whereas divers Miſdemeanors have been and are daily committed, as Well in the undue making, buying, and ſelling of Sope prohibited, not made under the ſaid Rule and Government; as alſo in reſisting and not aſſisting the Searchers appointed by the Society of <hi>London,</hi> and their Deputies in the Searching, for ſeizing and carrying away of the ſaid Sope prohibited: Theſe are therefore to will and require you the Meſſengers of His Majeſties Chamber, or any of you, or any other whom it may concern, That from time to time you Arreſt, Apprehend, and take into Cuſtody, all and every ſuch perſon and per<g ref="char:EOLhyphen"/>ſons as the Governor or the Deputy of the ſaid Society of Sope-makers of <hi>London</hi> for the time being ſhall nominate and direct you to Apprehend, for their contempt in all or any of the Premiſes: And alſo by the like nomination and direction, to make ſtay and ſei<g ref="char:EOLhyphen"/>zure of all the ſaid prohibited Sope, not made under the ſaid Govern<g ref="char:EOLhyphen"/>ment, or to ſeize and carry away all Lees and other Materials, as Oyl, Tallow, and Pot-aſhes, prepared for the undue making of Sope, remaining in the Cuſtody and Charge of any perſon or perſons in any place priviledged or not priviledged; and that every perſon which ſhall be ſo Apprehended, you bring, or cauſe to be forthwith brought to the Councel Chamber to enter their Appearance, to be proceeded withall according to their demerits. Hereof fail you not at your utter peril.</p>
+                           <closer>
+                              <dateline>Dated at <hi>Whitehall</hi> 
+                                 <date>the 28. of <hi>July,</hi> 1637.</date>
+                              </dateline>
+                           </closer>
+                           <trailer>To all Mayors, Sheriffs, Iuſtices of Peace, Bailiffs, Conſtables, Head-boroughs, and all other His Ma<g ref="char:EOLhyphen"/>jeſties Officers and loving Sub<g ref="char:EOLhyphen"/>jects whom it may concern, and eſpecially to the Meſſengers of His Majeſties Chamber, and to every of them.</trailer>
+                           <closer>
+                              <signed>W. Cant. W: Lond: Arundel and Surry, Dorſet, Wimbleton, Cottington, Iohn Cook, Tho: Iurman, Fra: Wyndebank.</signed>
+                           </closer>
+                        </body>
+                     </floatingText>
+                  </div>
+               </div>
+               <div type="section">
+                  <pb n="22" facs="tcp:113756:12"/>
+                  <p>The fourth and laſt general Head, which is contained in the ſixth and laſt Branch of their Petition, is this:</p>
+                  <p>4. <hi>That many actions upon the Statute againſt Monopolies have been brought againſt theſe Patentees, by the oppreſſed Sope-boylers of</hi> London, <hi>for recovery of of their loſſes and damages</hi>
+                     <g ref="char:punc">▪</g> which they expreſſe as a grievance, and demon<g ref="char:EOLhyphen"/>ſtrate it by theſe two particulars,</p>
+                  <p n="1">1. <hi>That by reaſon of this proſecution they have expended</hi> 1000. l.</p>
+                  <p n="2">2. <hi>That ſome have recovered</hi> 1000. l. <hi>ſome</hi> 500. l. <hi>ſome</hi> 300. l. <hi>and yet upon proof they have not been damnified five pounds.</hi>
+                  </p>
+                  <p>The Anſwer that I ſhall give to both theſe particulars briefly ſhall be this; and firſt to Anſwer the first particular, which is their expence of One thou<g ref="char:EOLhyphen"/>ſand pounds, being proſecuted by Law.</p>
+                  <div type="answer">
+                     <head>The Anſwer is threefold.</head>
+                     <p n="1">1. The proſecution is a juſt and legal proſecution for recovery of ſatisfacti<g ref="char:EOLhyphen"/>on of their ſeveral damages and loſſes, ſuſtained by theſe cruel projectors bar<g ref="char:EOLhyphen"/>barous proſecution of their illegal Patent; a juſt means of relief againſt, and unjuſt oppreſſion, which hath the ſtamp of the Parliaments approbation for its vindication.</p>
+                     <p n="2">2. There was a neceſſity of this proſecution, becauſe that theſe Patentees would not make reſtitution without ſuit of Law, unleſſe they will accept of that ſatisfaction which they will give them, which is not a half peny, no not to ſome a farthing for a peny, whatever they do pretend.</p>
+                     <p n="3">3. That if they have ſpent 1000. l. (ſure I am that ſome of it muſt be ſpent either in a corrupt or exceſſive way) as we uſe to ſay that Thieves are good Gueſſe upon the Rode, ſpend free) yet they have made great advantage by that expence, becauſe the detainer of the complainants money, by vexatious delays, for theſe five years and upwards, hath been annually at leaſt 1500. l. benefit to them. I come now to ſpeak to the ſecond, which is their expreſſions, that the recoveries are unreaſonable that have been recovered againſt them; namely, <hi>That ſome have recovered</hi> 1000. l. <hi>ſome</hi> 500. l. <hi>ſome</hi> 300. l. <hi>and yet never been damnified five pounds.</hi>
+                     </p>
+                  </div>
+                  <div type="answer">
+                     <head>The Anſwer is:</head>
+                     <p>The falſity of this their affirmation is ſo obvious, that no rational man will give credit to it, but becauſe it implies either an unrighteouſneſs or oppreſſion in the Law (for ſo they have and do expreſſe) and ſo ſecretly charge our Law makers) or in the Iury who are Iudges of the damages, I ſhall by way of vin<g ref="char:EOLhyphen"/>dication of both, thus poſitively and truly ſpeak.</p>
+                     <p n="1">1. That the recoveries were but 306. l.-13.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.-4. 150. l. and 90. l. all which ſome by vertue of the ſtatute were trebled by the Court: Thus you ſee that theſe preſumptuous oppreſſors do ſecretly charge our Law makers of oppreſſion.</p>
+                     <p n="2">2. That the parties did not recover, nor did the Iury award in damages more, no not ſo much as the Plaintiffs proved that they had ſuſtained by theſe cruel Patentees.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <p>I will now conclude ſpeaking of and to the ſubject matter or body of their Petition, with the obſerving ſome ſhort notes that are deductable, probably from the cloſier of this firſt general part of this Petition (which is this)</p>
+                  <p>
+                     <hi>That they have been ſerviceable (and ſtill deſire to be) to the King and
+<pb n="23" facs="tcp:113756:12"/> Kingdom, by great engaging of their Purſes and Perſons.</hi>
+                  </p>
+                  <p>Their ends and intentions in this expreſſion, undoubtedly muſt of neceſſity be to render them Friends and not Enemies to King and Kingdom; having hinted to you their end, I will give you the Obſervations.</p>
+                  <p>Firſt, if you conſider how theſe Petitioners are Enemies, as is above ex<g ref="char:EOLhyphen"/>preſſed, and then take their being ſerviceable to King and Kingdom, by way of co-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ction; then the probable reſult of theſe words may be this: <hi>That they have given aſſistance to both ſides.</hi> And there is reaſon to be rendred, Be<g ref="char:EOLhyphen"/>cauſe that at the breaking up of the laſt Parliament, <hi>May</hi> 1640. they did give the King Ten or Twelve thouſand pounds to take up their Patent again, (which they had ſurrendred) in hopes never to ſee Parliament more in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> which money, as was ſuppoſed, was given as an additional aſſiſtance againſt the <hi>Scots.</hi>
+                  </p>
+                  <p>Secondly, if you conſider, That if the Parliament do prevail, thay are ac<g ref="char:EOLhyphen"/>comptable for their Delinquency; then their giving aſſiſtance probably is po<g ref="char:EOLhyphen"/>lity, and not piety; ſelf-ſeeking, not Gods glory; themſelves, not the Kingdoms good.</p>
+                  <p>Thirdly, if you do conſider, That they do oppreſſively detain the other Petitioners Eſtate, and the advantage they make of that detainer, to the diſ<g ref="char:EOLhyphen"/>abling of them which are cordial for the Parliament (and have as far engaged their perſons as thoſe Patentees) it affords theſe two Propoſitions.</p>
+                  <p n="1">1. <hi>That it is not an ingaging of their own but other mens purſes.</hi>
+                  </p>
+                  <p n="2">2. <hi>That their ingaging of their purſes is not an advantage but a damage to the Parliaments Cauſe.</hi>
+                  </p>
+                  <p>I have done with the firſt general part, I ſhall only obſerve ſome few things from the other two general parts, and ſo conclude.</p>
+                  <p n="1">1. <hi>That theſe Patentces are moſt ready and willing to make ſatisfaction to all that can make it appear that they have wronged them.</hi>
+                  </p>
+                  <p>To this I anſwer, That their willingneſſe that ſatisfaction ſhould be given, doth not lye in their deſire of making reſtitution, but in this, That they are moſt willing to be diſburthened of the ſuits at Law againſt them commenced by the Parliament, forcing their fellow Projectors thereunto.</p>
+                  <p n="2">2. That of all the goods they have forcibly and oppreſſively taken and ſpoil<g ref="char:EOLhyphen"/>ed of the other Sope-boylers, they never received one peny.</p>
+                  <div type="answer">
+                     <head>To this I Anſwer.</head>
+                     <p>That all the goods that was by them ſeized and ſpoiled of the oppreſſed Sope-boylers, was ſeized for the uſe of theſe Projectors, one moity thereof, and the other moity for the uſe of the Kings Majeſty, and was by theſe Pro<g ref="char:EOLhyphen"/>jectors appointment and command, ſeized and brought to their own houſes, and converted to their own uſe, which is evident by their Patent; by which Grant Col: <hi>John Hardwick,</hi> Captain <hi>John Hayes, Iames Baker,</hi> and <hi>Ionathan Mot,</hi> (Members of that illegal Corporation) were conſtituted and ordained ſearchers of the ſaid company, ſome of them barbarouſly breaking into hou<g ref="char:EOLhyphen"/>ſes, ſeizing and carrying away mens goods, others receiving in the goods ille<g ref="char:EOLhyphen"/>gally ſeized and carried away, witneſſe the accompt that Col: <hi>Iohn Hardwick</hi> made in the Exchequer upon his Oath, who was one of the firſt ſearchers, and moſt activeſt Member of that Patent. There is one thing which I will relate
+<pb n="24" facs="tcp:113756:13"/> to you, which is not only an aggravation of this ſtrange, and I preſume un<g ref="char:EOLhyphen"/>paralleld preſumption of theirs, in daring to preſent to ſo Honorable an Aſ<g ref="char:EOLhyphen"/>ſembly as the High Honorable Houſe of <hi>Commons,</hi> ſo deceiving and vain a Pe<g ref="char:EOLhyphen"/>tition as this; but alſo diſcovers to what a height of wickedneſſe, what dan<g ref="char:EOLhyphen"/>gerous deſigns coveteouſneſſe will put men upon: The Relation is this, what theſe Petitioners have here untruly affirmed, namely, that not one peny of the goods ſeized came to them. <hi>Anthony Whitwel,</hi> one of theſe Sope-Patentees, did falſly depoſe the ſame at a Tryal between <hi>Iohn Doughty</hi> Plaintiff, and Col: <hi>Iohn Hardwick,</hi> and other Patentees Defendants, which perjury was to the damage of the Plaintiff <hi>Doughty</hi> 200 l. as the Iury then confeſſed, and hath been ſince proved at the Tryal of the Action, upon a ſtatute of perjury, which the ſaid <hi>Doughty</hi> did bring, and proved againſt the ſaid <hi>Anthony Whitwel,</hi> and the Iury did at Tryal finde him guilty of perjury againſt the Plaintiff, com<g ref="char:EOLhyphen"/>mitted in the former Action to his damage of 200. l. and did finde in dama<g ref="char:EOLhyphen"/>ges, according to the limitation of the ſtatute; but there was a ſpecial Ver<g ref="char:EOLhyphen"/>dict found by the direction of the Iudge, for that the Plaintiffs Attorney did not produce a copy of the Original in the former Action, and ſince hath compounded for the ſame. I have mentioned this to ſhew of what validity their words are; and the rather for this reaſon, becauſe one of the Petitioners hath told me ſince his conviction, that they all would take the ſame Oath. Thus you ſee theſe men, as they did not leave any way of cruelty unattempted and acted, that might conduce to accompliſh their covetous deſign, though ne<g ref="char:EOLhyphen"/>ver ſo deſtructive to the Common-wealth, and ruinous to their fellow ſub<g ref="char:EOLhyphen"/>jects in their Eſtares and Liberties: ſo now they will not ceaſe covering their ſins with lyes, even with an Oath.</p>
+                  </div>
+               </div>
+               <div type="continuation_of_section">
+                  <p n="3">3. That many of their company that had greater benefit by their patent then themſelves, refuſe to joyn in making ſatisfaction.</p>
+                  <div type="answer">
+                     <head>To this I Anſwer.</head>
+                     <p n="1">1. That there are not many that refuſe had greater benefit.</p>
+                     <p n="2">2. That this is in the moſt part of it rather a pretence then real matter of complaint; for the petitioners dares not cauſe all thoſe (which they have no<g ref="char:EOLhyphen"/>minated and preſented to the Honorable Committee of the Houſe of Com<g ref="char:EOLhyphen"/>mons for petitions) to be compelled to joyn with them in making reſtitution,</p>
+                  </div>
+               </div>
+            </div>
+            <div type="conclusion">
+               <p>Much more might be ſpoken to theſe three particulars, to ſhew how they endeavour to deceive the Honorable Houſe of Commons by theſe vain words; but I will neither trouble my ſelf or you, becauſe it is not materiall to the Iudge to hinder him in execution of Iuſtice, whether the Malefactor be wil<g ref="char:EOLhyphen"/>ling or not willing to be tryed, whether a Malefactor do poſſeſſe any of the money which he hath ſtoln or not poſſeſſe, whether the reſt of the Malefactors be diſcovered or not diſcovered, at preſent I will conclude with the words of <hi>Solomon, Prov. 18. 17. He that is firſt in his own cauſe ſeemeth juſt, but his neigh<g ref="char:EOLhyphen"/>bor cometh and ſearcheth him.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
